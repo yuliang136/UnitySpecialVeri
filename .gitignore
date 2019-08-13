@@ -5,3 +5,4 @@
 *.sln
 *.DS_Store
 *.suo
+*/.vs/
